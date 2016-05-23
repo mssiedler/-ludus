@@ -1,0 +1,2382 @@
+fileFormatVersion: 2
+guid: 9881f0365b3add24991aabbb04d69483
+timeCreated: 1462382618
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alcolino_idle_0
+    21300002: alcolino_idle_1
+    21300004: alcolino_idle_2
+    21300006: alcolino_idle_3
+    21300008: alcolino_idle_4
+    21300010: alcolino_idle_5
+    21300012: alcolino_idle_6
+    21300014: alcolino_idle_7
+    21300016: alcolino_idle_8
+    21300018: alcolino_idle_9
+    21300020: alcolino_idle_10
+    21300022: alcolino_idle_11
+    21300024: alcolino_idle_12
+    21300026: alcolino_idle_13
+    21300028: alcolino_idle_14
+    21300030: alcolino_idle_15
+    21300032: alcolino_idle_16
+    21300034: alcolino_idle_17
+    21300036: alcolino_idle_18
+    21300038: alcolino_idle_19
+    21300040: alcolino_idle_20
+    21300042: alcolino_idle_21
+    21300044: alcolino_idle_22
+    21300046: alcolino_idle_23
+    21300048: alcolino_idle_24
+    21300050: alcolino_idle_25
+    21300052: alcolino_idle_26
+    21300054: alcolino_idle_27
+    21300056: alcolino_idle_28
+    21300058: alcolino_idle_29
+    21300060: alcolino_idle_30
+    21300062: alcolino_idle_31
+    21300064: alcolino_idle_32
+    21300066: alcolino_idle_33
+    21300068: alcolino_idle_34
+    21300070: alcolino_idle_35
+    21300072: alcolino_idle_36
+    21300074: alcolino_idle_37
+    21300076: alcolino_idle_38
+    21300078: alcolino_idle_39
+    21300080: alcolino_idle_40
+    21300082: alcolino_idle_41
+    21300084: alcolino_idle_42
+    21300086: alcolino_idle_43
+    21300088: alcolino_idle_44
+    21300090: alcolino_idle_45
+    21300092: alcolino_idle_46
+    21300094: alcolino_idle_47
+    21300096: alcolino_idle_48
+    21300098: alcolino_idle_49
+    21300100: alcolino_idle_50
+    21300102: alcolino_idle_51
+    21300104: alcolino_idle_52
+    21300106: alcolino_idle_53
+    21300108: alcolino_idle_54
+    21300110: alcolino_idle_55
+    21300112: alcolino_idle_56
+    21300114: alcolino_idle_57
+    21300116: alcolino_idle_58
+    21300118: alcolino_idle_59
+    21300120: alcolino_idle_60
+    21300122: alcolino_idle_61
+    21300124: alcolino_idle_62
+    21300126: alcolino_idle_63
+    21300128: alcolino_idle_64
+    21300130: alcolino_idle_65
+    21300132: alcolino_idle_66
+    21300134: alcolino_idle_67
+    21300136: alcolino_idle_68
+    21300138: alcolino_idle_69
+    21300140: alcolino_idle_70
+    21300142: alcolino_idle_71
+    21300144: alcolino_idle_72
+    21300146: alcolino_idle_73
+    21300148: alcolino_idle_74
+    21300150: alcolino_idle_75
+    21300152: alcolino_idle_76
+    21300154: alcolino_idle_77
+    21300156: alcolino_idle_78
+    21300158: alcolino_idle_79
+    21300160: alcolino_idle_80
+    21300162: alcolino_idle_81
+    21300164: alcolino_idle_82
+    21300166: alcolino_idle_83
+    21300168: alcolino_idle_84
+    21300170: alcolino_idle_85
+    21300172: alcolino_idle_86
+    21300174: alcolino_idle_87
+    21300176: alcolino_idle_88
+    21300178: alcolino_idle_89
+    21300180: alcolino_idle_90
+    21300182: alcolino_idle_91
+    21300184: alcolino_idle_92
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: alcolino_idle_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1369
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1369
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1369
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1369
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_4
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1369
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_5
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1369
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_6
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1369
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_7
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1369
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_8
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1369
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_9
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1369
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_10
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1369
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_11
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1369
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_12
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1369
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_13
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1369
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_14
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 1369
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_15
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1369
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_16
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1369
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_17
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 1369
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_18
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 1369
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_19
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 1369
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1028
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1028
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_22
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1028
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_23
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1028
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_24
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1028
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_25
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1028
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_26
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1028
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_27
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1028
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_28
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1028
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_29
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1028
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_30
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1028
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_31
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1028
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_32
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1028
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_33
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1028
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_34
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 1028
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_35
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1028
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_36
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1028
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_37
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 1028
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_38
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 1028
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_39
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 1028
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 687
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_41
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 687
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_42
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 687
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_43
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 687
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_44
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 687
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_45
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 687
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_46
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 687
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_47
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 687
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_48
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 687
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_49
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 687
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_50
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 687
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_51
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 687
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_52
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 687
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_53
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 687
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_54
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 687
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_55
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 687
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_56
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 687
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_57
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 687
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_58
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 687
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_59
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 687
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 346
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_61
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 346
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_62
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 346
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_63
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 346
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_64
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 346
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_65
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 346
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_66
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 346
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_67
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 346
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_68
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 346
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_69
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 346
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_70
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 346
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_71
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 346
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_72
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 346
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_73
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 346
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_74
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 346
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_75
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 346
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_76
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 346
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_77
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 346
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_78
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 346
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_79
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 346
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_81
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 5
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_82
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 5
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_83
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 5
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_84
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 5
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_85
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 5
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_86
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 5
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_87
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 5
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_88
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 5
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_89
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 5
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_90
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 5
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_91
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 5
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcolino_idle_92
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 5
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 122}
+        - {x: 47.5, y: 207}
+        - {x: 67.5, y: 277}
+        - {x: 67.5, y: 311}
+        - {x: 45.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 292}
+        - {x: -67.5, y: 55}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
