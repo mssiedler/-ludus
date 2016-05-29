@@ -3,26 +3,32 @@ using System.Collections;
 
 public class abrirLoja : MonoBehaviour {
 
-    private Moeda din;
+    
     public GameObject botao;
-	// Use this for initialization
-	void Start () {
-        din = FindObjectOfType(typeof(Moeda)) as Moeda;
+    public bool teste;
+    public int valor;
+    // Use this for initialization
 
-			
-  
-	}
-
-    public void desbloquearBotao()
+    void Start()
     {
-        if (din.dinheiro <= 99)
+        if (PlayerPrefs.HasKey("moedas"))
         {
+            valor = (PlayerPrefs.GetInt("moedas"));
+
+        }
+
+        if (valor <= 99)
+        {
+            teste = false;
             botao.SetActive(false);
         }
-        else if (din.dinheiro >= 100)
+        else if (valor >= 100)
         {
+            teste = true;
             botao.SetActive(true);
         }
+
     }
+    
 
 }
