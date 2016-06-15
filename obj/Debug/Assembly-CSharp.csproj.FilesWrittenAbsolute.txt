@@ -15,3 +15,20 @@
 /Users/marcelosiedler/Downloads/Ludus Ruben 2/Ludus2/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/marcelosiedler/Downloads/Ludus Ruben 2/Ludus2/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/marcelosiedler/Downloads/Ludus Ruben 2/Ludus2/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/marcelosiedler/Documents/GITHUB/-ludus/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/marcelosiedler/Documents/GITHUB/-ludus/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/marcelosiedler/Documents/GITHUB/-ludus/obj/Debug/Assembly-CSharp.dll
+/Users/marcelosiedler/Documents/GITHUB/-ludus/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/marcelosiedler/Documents/GITHUB/-ludus/Temp/bin/Debug/UnityEngine.dll
+/Users/marcelosiedler/Documents/GITHUB/-ludus/Temp/bin/Debug/UnityEditor.dll
+/Users/marcelosiedler/Documents/GITHUB/-ludus/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/marcelosiedler/Documents/GITHUB/-ludus/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/marcelosiedler/Documents/GITHUB/-ludus/Temp/bin/Debug/Mono.Cecil.dll
+/Users/marcelosiedler/Documents/GITHUB/-ludus/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/marcelosiedler/Documents/GITHUB/-ludus/Temp/bin/Debug/Unity.DataContract.dll
+/Users/marcelosiedler/Documents/GITHUB/-ludus/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/marcelosiedler/Documents/GITHUB/-ludus/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/marcelosiedler/Documents/GITHUB/-ludus/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/marcelosiedler/Documents/GITHUB/-ludus/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/marcelosiedler/Documents/GITHUB/-ludus/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/marcelosiedler/Documents/GITHUB/-ludus/Temp/bin/Debug/Mono.Cecil.Mdb.dll
