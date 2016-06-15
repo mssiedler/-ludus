@@ -16,7 +16,7 @@ public class Pergunta : MonoBehaviour {
 	public int respC;
 	public int certa;
 	public List<Pergunta> perguntas;
-	public List<Pergunta> soma,subtracao,divisao,multiplicacao,misturado;
+
 	public int nivel;
 	private Moeda din;
 	public int tenta;
@@ -54,44 +54,43 @@ public class Pergunta : MonoBehaviour {
 
 
 		perguntas = new List<Pergunta>();
-		soma = new List<Pergunta>();
-		subtracao = new List<Pergunta>();
+
 		idPergunta = 0;
 		tenta = 3;
 		pontosOperacao = 0;
 		//SOMA
-		soma.Add(new Pergunta("5+4=?", 1, 9, 7, 9, 1));
-		soma.Add(new Pergunta("3+2=?", 4, 1, 5, 5, 1));
-		soma.Add(new Pergunta("1+1=?", 2, 0, 4, 2, 1));
-		soma.Add(new Pergunta("7+3=?", 8, 5, 10, 10, 1));
-		soma.Add(new Pergunta("1+2=?", 4, 3, 5, 3, 1));
+		perguntas.Add(new Pergunta("5+4=?", 1, 9, 7, 9, 1));
+		perguntas.Add(new Pergunta("3+2=?", 4, 1, 5, 5, 1));
+		perguntas.Add(new Pergunta("1+1=?", 2, 0, 4, 2, 1));
+		perguntas.Add(new Pergunta("7+3=?", 8, 5, 10, 10, 1));
+		perguntas.Add(new Pergunta("1+2=?", 4, 3, 5, 3, 1));
 		//SUBTRAÇÃO 
-		subtracao.Add(new Pergunta("18-5=?", 11, 13, 3, 13, 1));
-		subtracao.Add(new Pergunta("22-10=?", 12, 10, 14, 12, 1));
-		subtracao.Add(new Pergunta("17-6=?", 11, 5, 10, 11, 1));
-		subtracao.Add(new Pergunta("2-1=?", 4, 1, 6, 6, 1));
-		subtracao.Add(new Pergunta("19-1=?", 15, 18, 14, 18, 1));
+		perguntas.Add(new Pergunta("18-5=?", 11, 13, 3, 13, 1));
+		perguntas.Add(new Pergunta("22-10=?", 12, 10, 14, 12, 1));
+		perguntas.Add(new Pergunta("17-6=?", 11, 5, 10, 11, 1));
+		perguntas.Add(new Pergunta("2-1=?", 4, 1, 6, 6, 1));
+		perguntas.Add(new Pergunta("19-1=?", 15, 18, 14, 18, 1));
 		//MULTIPLICAÇÃO
-		multiplicacao.Add(new Pergunta("3*3=?",1,9,7,9,1));
-		multiplicacao.Add(new Pergunta("5*1=?",4,1,5,5,1));
-		multiplicacao.Add(new Pergunta("2*2=?",2,0,4,4,1));
-		multiplicacao.Add(new Pergunta("4-2=?",2,0,4,2,1));
-		multiplicacao.Add(new Pergunta("4-2=?",2,0,4,2,1));
+		perguntas.Add(new Pergunta("3*3=?",1,9,7,9,1));
+		perguntas.Add(new Pergunta("5*1=?",4,1,5,5,1));
+		perguntas.Add(new Pergunta("2*2=?",2,0,4,4,1));
+		perguntas.Add(new Pergunta("4-2=?",2,0,4,2,1));
+		perguntas.Add(new Pergunta("4-2=?",2,0,4,2,1));
 		//DIVISÃO
-		divisao.Add(new Pergunta("18/2=?", 1, 9, 7, 9, 1));
-		divisao.Add(new Pergunta("15/3=?", 4, 1, 5, 5, 1));
-		divisao.Add(new Pergunta("4/2=?", 2, 0, 4, 2, 1));
-		divisao.Add(new Pergunta("5*2=?", 8, 5, 10, 10, 1));
-		divisao.Add(new Pergunta("18/6=?", 4, 3, 5, 3, 1));
+		perguntas.Add(new Pergunta("18/2=?", 1, 9, 7, 9, 1));
+		perguntas.Add(new Pergunta("15/3=?", 4, 1, 5, 5, 1));
+		perguntas.Add(new Pergunta("4/2=?", 2, 0, 4, 2, 1));
+		perguntas.Add(new Pergunta("5*2=?", 8, 5, 10, 10, 1));
+		perguntas.Add(new Pergunta("18/6=?", 4, 3, 5, 3, 1));
 		//MISTURADO
-		misturado.Add(new Pergunta("5+4=?", 1, 9, 7, 9, 1));
-		misturado.Add(new Pergunta("10-5=?", 4, 1, 5, 5, 1));
-		misturado.Add(new Pergunta("2*1=?", 2, 0, 4, 2, 1));
-		misturado.Add(new Pergunta("7+3=?", 8, 5, 10, 10, 1));
-		misturado.Add(new Pergunta("18/6=?", 4, 3, 5, 3, 1));
+		perguntas.Add(new Pergunta("5+4=?", 1, 9, 7, 9, 1));
+		perguntas.Add(new Pergunta("10-5=?", 4, 1, 5, 5, 1));
+		perguntas.Add(new Pergunta("2*1=?", 2, 0, 4, 2, 1));
+		perguntas.Add(new Pergunta("7+3=?", 8, 5, 10, 10, 1));
+		perguntas.Add(new Pergunta("18/6=?", 4, 3, 5, 3, 1));
 
-		perguntas = soma;
-		operacaoAtual = "+";
+
+
 		this.pergunta.text = perguntas[idPergunta].questoes;
 		this.b1.text = perguntas[idPergunta].respA + "";
 		this.b2.text = perguntas[idPergunta].respB + "";
@@ -118,24 +117,22 @@ public class Pergunta : MonoBehaviour {
 			
 			PlayerPrefs.SetInt ("estrelas1", calcularEstrelas ());
 			operacaoAtual = "-";
-			idPergunta = 0;
-			perguntas = subtracao;
-			print (perguntas [0]);
+
 			break;
 		case "-":
 			PlayerPrefs.SetInt ("estrelas2", calcularEstrelas ());
 			operacaoAtual = "*";
-			perguntas = multiplicacao;
+
 			break;
 		case "*":
 			PlayerPrefs.SetInt ("estrelas3", calcularEstrelas ());
 			operacaoAtual = "/";
-			perguntas = divisao;
+
 			break;
 		case "/":
 			PlayerPrefs.SetInt ("estrelas4", calcularEstrelas ());
 			operacaoAtual = "%";
-			perguntas = misturado;
+		
 			break;
 		case "%":
 			PlayerPrefs.SetInt ("estrelas5", calcularEstrelas ());
@@ -156,7 +153,7 @@ public class Pergunta : MonoBehaviour {
 
 	void proximaPergunta()
 	{
-		if (idPergunta.Equals(1)) 
+		if (idPergunta == 4) 
 		{
 			trocaOperacao();
 		}
