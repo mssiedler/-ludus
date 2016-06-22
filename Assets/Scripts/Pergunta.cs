@@ -56,6 +56,7 @@ public class Pergunta : MonoBehaviour {
 		perguntas = new List<Pergunta>();
 
 		idPergunta = 0;
+		operacaoAtual = "+";
 		tenta = 3;
 		pontosOperacao = 0;
 		//SOMA
@@ -68,26 +69,26 @@ public class Pergunta : MonoBehaviour {
 		perguntas.Add(new Pergunta("18-5=?", 11, 13, 3, 13, 1));
 		perguntas.Add(new Pergunta("22-10=?", 12, 10, 14, 12, 1));
 		perguntas.Add(new Pergunta("17-6=?", 11, 5, 10, 11, 1));
-		perguntas.Add(new Pergunta("2-1=?", 4, 1, 6, 6, 1));
+		perguntas.Add(new Pergunta("2-1=?", 4, 1, 6, 1, 1));
 		perguntas.Add(new Pergunta("19-1=?", 15, 18, 14, 18, 1));
 		//MULTIPLICAÇÃO
 		perguntas.Add(new Pergunta("3*3=?",1,9,7,9,1));
 		perguntas.Add(new Pergunta("5*1=?",4,1,5,5,1));
 		perguntas.Add(new Pergunta("2*2=?",2,0,4,4,1));
-		perguntas.Add(new Pergunta("4-2=?",2,0,4,2,1));
-		perguntas.Add(new Pergunta("4-2=?",2,0,4,2,1));
+		perguntas.Add(new Pergunta("4*2=?",8,0,4,8,1));
+		perguntas.Add(new Pergunta("4*1=?",4,0,4,4,1));
 		//DIVISÃO
-		perguntas.Add(new Pergunta("18/2=?", 1, 9, 7, 9, 1));
-		perguntas.Add(new Pergunta("15/3=?", 4, 1, 5, 5, 1));
+		perguntas.Add(new Pergunta("18/2=?", 9, 1, 7, 9, 1));
+		perguntas.Add(new Pergunta("15/3=?", 5, 1, 1, 5, 1));
 		perguntas.Add(new Pergunta("4/2=?", 2, 0, 4, 2, 1));
-		perguntas.Add(new Pergunta("5*2=?", 8, 5, 10, 10, 1));
-		perguntas.Add(new Pergunta("18/6=?", 4, 3, 5, 3, 1));
+		perguntas.Add(new Pergunta("5*2=?", 10, 5, 11, 10, 1));
+		perguntas.Add(new Pergunta("18/6=?", 3, 1, 5, 3, 1));
 		//MISTURADO
-		perguntas.Add(new Pergunta("5+4=?", 1, 9, 7, 9, 1));
-		perguntas.Add(new Pergunta("10-5=?", 4, 1, 5, 5, 1));
+		perguntas.Add(new Pergunta("5+4=?", 9, 9, 7, 9, 1));
+		perguntas.Add(new Pergunta("10-5=?", 5, 1, 5, 5, 1));
 		perguntas.Add(new Pergunta("2*1=?", 2, 0, 4, 2, 1));
-		perguntas.Add(new Pergunta("7+3=?", 8, 5, 10, 10, 1));
-		perguntas.Add(new Pergunta("18/6=?", 4, 3, 5, 3, 1));
+		perguntas.Add(new Pergunta("7+3=?", 10, 5, 10, 10, 1));
+		perguntas.Add(new Pergunta("18/6=?", 3, 3, 5, 3, 1));
 
 
 
@@ -105,6 +106,8 @@ public class Pergunta : MonoBehaviour {
 		galinha3 = new Galinha (g3, 300, 31+73f);
 		velocidade = -1.08f;
 		proxima = false;
+
+
 
 	}
 
@@ -145,24 +148,28 @@ public class Pergunta : MonoBehaviour {
 			break;
 		}
 
-		//verifica se é fim de jogo
-		if (perguntas.Count == idPergunta - 1) {
-			print ("Fim de Jogo");
-		}
+
 	}
 
 	void proximaPergunta()
 	{
-		if (idPergunta == 4) 
-		{
-			trocaOperacao();
-		}
-		else
-		{
-			idPergunta += 1;
+
+		idPergunta += 1;
+		//verifica se é fim de jogo
+		print(idPergunta);
+		if (idPergunta>perguntas.Count-1) {
+			print ("Fim de Jogo");
+			proxima = false;
+		} else {
 			proxima = true;
+			if (idPergunta % 5==0) 
+			{
+				trocaOperacao();
+			}
+			tenta = 3;
 		}
-		tenta = 3;
+
+
 
 
 	}
@@ -191,7 +198,7 @@ public class Pergunta : MonoBehaviour {
 				galinha2.setMovimento ("D");
 				galinha3.setMovimento ("D");
 				//	certa = true;
-				print(din.retornaValor());
+
 			}
 			else
 			{
