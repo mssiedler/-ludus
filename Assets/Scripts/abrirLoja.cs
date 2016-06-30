@@ -29,6 +29,17 @@ public class abrirLoja : MonoBehaviour {
         }
 
     }
-    
+
+
+	//usado na escolha das FASES
+	public void chamaOperacao(string operacao)
+	{
+		
+		PlayerPrefs.SetString ("op", operacao);
+		comandosBasicos cb = new comandosBasicos();
+		cb.carregaCena ("Fase1");
+	}
+
+
 
 }

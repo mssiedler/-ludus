@@ -79,6 +79,7 @@
 -define:UNITY_EDITOR_OSX
 'Assets/NewBehaviourScript.cs'
 'Assets/Scripts/Fading.cs'
+'Assets/Scripts/Fases.cs'
 'Assets/Scripts/Galinha.cs'
 'Assets/Scripts/Moeda.cs'
 'Assets/Scripts/Paineis.cs'

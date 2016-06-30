@@ -47,6 +47,7 @@
   <ItemGroup>
      <Compile Include="Assets\NewBehaviourScript.cs" />
      <Compile Include="Assets\Scripts\Fading.cs" />
+     <Compile Include="Assets\Scripts\Fases.cs" />
      <Compile Include="Assets\Scripts\Galinha.cs" />
      <Compile Include="Assets\Scripts\Moeda.cs" />
      <Compile Include="Assets\Scripts\Paineis.cs" />

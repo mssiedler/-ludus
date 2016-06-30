@@ -54,9 +54,39 @@ public class Pergunta : MonoBehaviour {
 
 
 		perguntas = new List<Pergunta>();
+		if (PlayerPrefs.HasKey ("op")) {
+			operacaoAtual = PlayerPrefs.GetString ("op");
+			switch (operacaoAtual) {
 
-		idPergunta = 0;
-		operacaoAtual = "+";
+			case "+":
+
+				idPergunta = 0;
+				break;
+			case "-":
+				idPergunta = 5;
+				break;
+			case "*":
+				idPergunta = 10;
+				break;
+			case "/":
+				idPergunta = 15;
+				break;
+			case "%":
+				idPergunta = 20;
+				break;
+
+			default:
+				idPergunta = 0; //padrão é soma
+				break;
+			}
+
+
+		} else {
+			//se acessar  a tela direto é soma(vale pra testes)
+			idPergunta = 0;
+			operacaoAtual = "+";
+		}
+
 		tenta = 3;
 		pontosOperacao = 0;
 		//SOMA
