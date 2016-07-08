@@ -114,11 +114,11 @@ public class Pergunta : MonoBehaviour {
 		perguntas.Add(new Pergunta("5*2=?", 10, 5, 11, 10, 1));
 		perguntas.Add(new Pergunta("18/6=?", 3, 1, 5, 3, 1));
 		//MISTURADO
-		perguntas.Add(new Pergunta("5+4=?", 9, 9, 7, 9, 1));
-		perguntas.Add(new Pergunta("10-5=?", 5, 1, 5, 5, 1));
+		perguntas.Add(new Pergunta("5+4=?", 9, 8, 7, 9, 1));
+		perguntas.Add(new Pergunta("10-5=?", 5, 1, 4, 5, 1));
 		perguntas.Add(new Pergunta("2*1=?", 2, 0, 4, 2, 1));
-		perguntas.Add(new Pergunta("7+3=?", 10, 5, 10, 10, 1));
-		perguntas.Add(new Pergunta("18/6=?", 3, 3, 5, 3, 1));
+		perguntas.Add(new Pergunta("7+3=?", 10, 5, 9, 10, 1));
+		perguntas.Add(new Pergunta("18/6=?", 3, 2, 5, 3, 1));
 
 
 
@@ -144,11 +144,13 @@ public class Pergunta : MonoBehaviour {
 	public void trocaOperacao()
 	{
 		
+		
 		switch (operacaoAtual) {
 
 		case "+":
 			
 			PlayerPrefs.SetInt ("estrelas1", calcularEstrelas ());
+			print (PlayerPrefs.GetInt ("estrelas1"));
 			operacaoAtual = "-";
 
 			break;
@@ -179,6 +181,8 @@ public class Pergunta : MonoBehaviour {
 		}
 
 
+
+
 	}
 
 	void proximaPergunta()
@@ -186,9 +190,10 @@ public class Pergunta : MonoBehaviour {
 
 		idPergunta += 1;
 		//verifica se é fim de jogo
-		print(idPergunta);
+
 		if (idPergunta>perguntas.Count-1) {
-			print ("Fim de Jogo");
+			comandosBasicos cb = new comandosBasicos ();
+			cb.carregaCena ("Fim");
 			proxima = false;
 		} else {
 			proxima = true;
@@ -212,7 +217,7 @@ public class Pergunta : MonoBehaviour {
 
 	public void verificaResposta(string alternativa)
 	{
-		//	bool certa = false;
+		bool certa;
 		int valor = 1;
 		switch (alternativa) {
 		case "A": 
@@ -223,11 +228,13 @@ public class Pergunta : MonoBehaviour {
 				//grava o valor das moedas
 				PlayerPrefs.SetInt("moedas", din.dinheiro);
 				PlayerPrefs.Save();
+				pontosOperacao += valor * tenta;
 				proximaPergunta();
 				galinha1.setMovimento ("E");
 				galinha2.setMovimento ("D");
 				galinha3.setMovimento ("D");
-				//	certa = true;
+				certa = true;
+
 
 			}
 			else
@@ -243,13 +250,13 @@ public class Pergunta : MonoBehaviour {
 				din.adicionaValor(valor * tenta);
 				PlayerPrefs.SetInt("moedas", din.dinheiro);
 				PlayerPrefs.Save();
-
+				pontosOperacao += valor * tenta;
 				proximaPergunta();
-				//	certa = true;
+					certa = true;
 				galinha1.setMovimento ("D");
 				galinha2.setMovimento ("E");
 				galinha3.setMovimento ("D");
-				print(din.retornaValor());
+
 			}
 			else{
 				if(tenta != 1){
@@ -263,13 +270,13 @@ public class Pergunta : MonoBehaviour {
 				din.adicionaValor(valor * tenta);
 				PlayerPrefs.SetInt("moedas", din.dinheiro);
 				PlayerPrefs.Save();
-
+				pontosOperacao += valor * tenta;
 				proximaPergunta();
-				//		certa = true;
+				certa = true;
 				galinha1.setMovimento ("D");
 				galinha2.setMovimento ("D");
 				galinha3.setMovimento ("E");
-				print(din.retornaValor());
+
 			}else
 			{
 				if(tenta != 1){
@@ -278,7 +285,7 @@ public class Pergunta : MonoBehaviour {
 			}
 			break;
 		}
-		//return certa;
+
 	}
 
 
@@ -306,14 +313,15 @@ public class Pergunta : MonoBehaviour {
 	private int calcularEstrelas()
 	{
 		int estrelas;
-		if (pontosOperacao.Equals (15)) {
+		pontosOperacao += 3;
+		if (pontosOperacao>= 13) {
 			estrelas = 3;
-		} else if (pontosOperacao > 11) {
+		} else if (pontosOperacao >= 10) {
 			estrelas = 2;
 		} else {
 			estrelas = 1;
 		}
-
+		pontosOperacao = 0;
 		return estrelas;
 
 	}

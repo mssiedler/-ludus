@@ -17,12 +17,12 @@ public class abrirLoja : MonoBehaviour {
 
         }
 
-        if (valor <= 99)
+        if (valor <= 29)
         {
             teste = false;
             botao.SetActive(false);
         }
-        else if (valor >= 100)
+        else if (valor >= 30)
         {
             teste = true;
             botao.SetActive(true);
@@ -31,14 +31,7 @@ public class abrirLoja : MonoBehaviour {
     }
 
 
-	//usado na escolha das FASES
-	public void chamaOperacao(string operacao)
-	{
-		
-		PlayerPrefs.SetString ("op", operacao);
-		comandosBasicos cb = new comandosBasicos();
-		cb.carregaCena ("Fase1");
-	}
+
 
 
 
