@@ -9,5 +9,15 @@ public class comandosBasicos : MonoBehaviour {
         SceneManager.LoadScene(nomeCena);
     }
 
+    public void resetJogo()
+    {
+        PlayerPrefs.DeleteAll();
+    }
+
+    public void abrirSite()
+    {
+        Application.OpenURL("https://projetoludusifsul.wordpress.com/");
+    }
+
 
 }
