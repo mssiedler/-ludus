@@ -144,36 +144,41 @@ public class Pergunta : MonoBehaviour {
 	public void trocaOperacao()
 	{
 		
-		
+		comandosBasicos cb = new comandosBasicos ();
 		switch (operacaoAtual) {
 
 		case "+":
 			
 			PlayerPrefs.SetInt ("estrelas1", calcularEstrelas ());
 			print (PlayerPrefs.GetInt ("estrelas1"));
-			operacaoAtual = "-";
+			//operacaoAtual = "-";
 
+			cb.carregaCena ("Fim");
 			break;
 		case "-":
 			PlayerPrefs.SetInt ("estrelas2", calcularEstrelas ());
-			operacaoAtual = "*";
+			//operacaoAtual = "*";
 
+			cb.carregaCena ("Fim");
 			break;
 		case "*":
 			PlayerPrefs.SetInt ("estrelas3", calcularEstrelas ());
-			operacaoAtual = "/";
+			//operacaoAtual = "/";
 
+			cb.carregaCena ("Fim");
 			break;
 		case "/":
 			PlayerPrefs.SetInt ("estrelas4", calcularEstrelas ());
-			operacaoAtual = "%";
-		
+			//operacaoAtual = "%";
+
+			cb.carregaCena ("Fim");		
 			break;
 		case "%":
 			PlayerPrefs.SetInt ("estrelas5", calcularEstrelas ());
-			operacaoAtual = null;
+			//operacaoAtual = null;
 			//perguntas = misturado;
 
+			cb.carregaCena ("Fim");
 			break;
 
 		default:

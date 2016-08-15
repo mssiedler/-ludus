@@ -1,7 +1,7 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "-ludus.CSharp", "-ludus.CSharp.csproj", "{81D46E9A-EF28-C422-1BD8-D7D50635C912}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7D0AC351-F66D-E4B5-AAAB-0216F5F647E5}") = "-ludus", "Assembly-CSharp.csproj", "{83A9D19B-96E2-316E-E490-CB078041FF3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,12 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{81D46E9A-EF28-C422-1BD8-D7D50635C912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{81D46E9A-EF28-C422-1BD8-D7D50635C912}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{81D46E9A-EF28-C422-1BD8-D7D50635C912}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{81D46E9A-EF28-C422-1BD8-D7D50635C912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83A9D19B-96E2-316E-E490-CB078041FF3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A9D19B-96E2-316E-E490-CB078041FF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A9D19B-96E2-316E-E490-CB078041FF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A9D19B-96E2-316E-E490-CB078041FF3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal

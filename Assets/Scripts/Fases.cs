@@ -171,9 +171,6 @@ public class Fases : MonoBehaviour {
 
 		}
 
-
-
-
 	}
 
 
@@ -183,7 +180,7 @@ public class Fases : MonoBehaviour {
 
 		PlayerPrefs.SetString ("op", operacao);
 		comandosBasicos cb = new comandosBasicos();
-		cb.carregaCena ("Fase1");
+		
 	}
 
 

@@ -1,13 +1,106 @@
 fileFormatVersion: 2
 guid: 40f1fa410a22e154f94bb59b035a0d1e
-timeCreated: 1460577228
+timeCreated: 1468607172
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: alcoolino_walk_0
+    21300002: alcoolino_walk_1
+    21300004: alcoolino_walk_2
+    21300006: alcoolino_walk_3
+    21300008: alcoolino_walk_4
+    21300010: alcoolino_walk_5
+    21300012: alcoolino_walk_6
+    21300014: alcoolino_walk_7
+    21300016: alcoolino_walk_8
+    21300018: alcoolino_walk_9
+    21300020: alcoolino_walk_10
+    21300022: alcoolino_walk_11
+    21300024: alcoolino_walk_12
+    21300026: alcoolino_walk_13
+    21300028: alcoolino_walk_14
+    21300030: alcoolino_walk_15
+    21300032: alcoolino_walk_16
+    21300034: alcoolino_walk_17
+    21300036: alcoolino_walk_18
+    21300038: alcoolino_walk_19
+    21300040: alcoolino_walk_20
+    21300042: alcoolino_walk_21
+    21300044: alcoolino_walk_22
+    21300046: alcoolino_walk_23
+    21300048: alcoolino_walk_24
+    21300050: alcoolino_walk_25
+    21300052: alcoolino_walk_26
+    21300054: alcoolino_walk_27
+    21300056: alcoolino_walk_28
+    21300058: alcoolino_walk_29
+    21300060: alcoolino_walk_30
+    21300062: alcoolino_walk_31
+    21300064: alcoolino_walk_32
+    21300066: alcoolino_walk_33
+    21300068: alcoolino_walk_34
+    21300070: alcoolino_walk_35
+    21300072: alcoolino_walk_36
+    21300074: alcoolino_walk_37
+    21300076: alcoolino_walk_38
+    21300078: alcoolino_walk_39
+    21300080: alcoolino_walk_40
+    21300082: alcoolino_walk_41
+    21300084: alcoolino_walk_42
+    21300086: alcoolino_walk_43
+    21300088: alcoolino_walk_44
+    21300090: alcoolino_walk_45
+    21300092: alcoolino_walk_46
+    21300094: alcoolino_walk_47
+    21300096: alcoolino_walk_48
+    21300098: alcoolino_walk_49
+    21300100: alcoolino_walk_50
+    21300102: alcoolino_walk_51
+    21300104: alcoolino_walk_52
+    21300106: alcoolino_walk_53
+    21300108: alcoolino_walk_54
+    21300110: alcoolino_walk_55
+    21300112: alcoolino_walk_56
+    21300114: alcoolino_walk_57
+    21300116: alcoolino_walk_58
+    21300118: alcoolino_walk_59
+    21300120: alcoolino_walk_60
+    21300122: alcoolino_walk_61
+    21300124: alcoolino_walk_62
+    21300126: alcoolino_walk_63
+    21300128: alcoolino_walk_64
+    21300130: alcoolino_walk_65
+    21300132: alcoolino_walk_66
+    21300134: alcoolino_walk_67
+    21300136: alcoolino_walk_68
+    21300138: alcoolino_walk_69
+    21300140: alcoolino_walk_70
+    21300142: alcoolino_walk_71
+    21300144: alcoolino_walk_72
+    21300146: alcoolino_walk_73
+    21300148: alcoolino_walk_74
+    21300150: alcoolino_walk_75
+    21300152: alcoolino_walk_76
+    21300154: alcoolino_walk_77
+    21300156: alcoolino_walk_78
+    21300158: alcoolino_walk_79
+    21300160: alcoolino_walk_80
+    21300162: alcoolino_walk_81
+    21300164: alcoolino_walk_82
+    21300166: alcoolino_walk_83
+    21300168: alcoolino_walk_84
+    21300170: alcoolino_walk_85
+    21300172: alcoolino_walk_86
+    21300174: alcoolino_walk_87
+    21300176: alcoolino_walk_88
+    21300178: alcoolino_walk_89
+    21300180: alcoolino_walk_90
+    21300182: alcoolino_walk_91
+    21300184: alcoolino_walk_92
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     linearTexture: 0
     correctGamma: 0
     fadeOut: 0
@@ -38,7 +131,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -49,7 +142,2131 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: alcoolino_walk_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1369
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 322}
+        - {x: 47.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -67.5, y: 313}
+        - {x: -67.5, y: 273}
+        - {x: -59.5, y: 226}
+        - {x: -67.5, y: 137}
+        - {x: -67.5, y: 81}
+        - {x: -51.5, y: 0}
+        - {x: 56.5, y: 0}
+        - {x: 54.5, y: 22}
+        - {x: 66.5, y: 71}
+        - {x: 67.5, y: 94}
+    - name: alcoolino_walk_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1369
+        width: 133
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.5, y: 307}
+        - {x: 49.5, y: 329}
+        - {x: -59.5, y: 329}
+        - {x: -66.5, y: 306}
+        - {x: -66.5, y: 50}
+        - {x: -52.5, y: 2}
+        - {x: -35.5, y: 0}
+        - {x: 21.5, y: 0}
+        - {x: 53.5, y: 6}
+        - {x: 53.5, y: 23}
+        - {x: 66.5, y: 74}
+    - name: alcoolino_walk_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1369
+        width: 128
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 259}
+        - {x: 64, y: 306}
+        - {x: 46, y: 329}
+        - {x: -38, y: 329}
+        - {x: -51, y: 327}
+        - {x: -64, y: 314}
+        - {x: -64, y: 23}
+        - {x: -62, y: 6}
+        - {x: -44, y: 0}
+        - {x: 17, y: 0}
+        - {x: 59, y: 6}
+        - {x: 64, y: 58}
+        - {x: 64, y: 104}
+        - {x: 41, y: 183}
+    - name: alcoolino_walk_3
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1369
+        width: 128
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 280}
+        - {x: 64, y: 311}
+        - {x: 34, y: 329}
+        - {x: -45, y: 329}
+        - {x: -64, y: 312}
+        - {x: -64, y: 1}
+        - {x: -57, y: 0}
+        - {x: 61, y: 0}
+        - {x: 64, y: 30}
+        - {x: 64, y: 126}
+        - {x: 47, y: 207}
+    - name: alcoolino_walk_4
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1369
+        width: 128
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 329}
+        - {x: -44, y: 329}
+        - {x: -64, y: 320}
+        - {x: -64, y: 0}
+        - {x: 52, y: 0}
+        - {x: 55, y: 3}
+        - {x: 64, y: 39}
+        - {x: 64, y: 307}
+    - name: alcoolino_walk_5
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1369
+        width: 128
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 260}
+        - {x: 64, y: 307}
+        - {x: 46, y: 329}
+        - {x: -50, y: 329}
+        - {x: -64, y: 318}
+        - {x: -64, y: 39}
+        - {x: -62, y: 8}
+        - {x: -42, y: 0}
+        - {x: 32, y: 0}
+        - {x: 52, y: 2}
+        - {x: 64, y: 60}
+        - {x: 64, y: 95}
+        - {x: 37, y: 183}
+    - name: alcoolino_walk_6
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1368
+        width: 128
+        height: 330
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 240}
+        - {x: 64, y: 315}
+        - {x: 37, y: 330}
+        - {x: -48, y: 330}
+        - {x: -64, y: 313}
+        - {x: -64, y: 69}
+        - {x: -50, y: 0}
+        - {x: 54, y: 0}
+        - {x: 60, y: 91}
+        - {x: 46, y: 131}
+    - name: alcoolino_walk_7
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1368
+        width: 128
+        height: 330
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 43}
+        - {x: 64, y: 88}
+        - {x: 64, y: 322}
+        - {x: 51, y: 330}
+        - {x: -50, y: 330}
+        - {x: -64, y: 322}
+        - {x: -64, y: 7}
+        - {x: -41, y: 0}
+        - {x: 28, y: 0}
+        - {x: 42, y: 6}
+        - {x: 40, y: 18}
+        - {x: 38, y: 24}
+    - name: alcoolino_walk_8
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1368
+        width: 128
+        height: 330
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 120}
+        - {x: 64, y: 220}
+        - {x: 64, y: 330}
+        - {x: -63, y: 330}
+        - {x: -64, y: 326}
+        - {x: -64, y: 182}
+        - {x: -58, y: 154}
+        - {x: -54, y: 6}
+        - {x: -27, y: 0}
+        - {x: 54, y: 0}
+        - {x: 64, y: 51}
+        - {x: 64, y: 98}
+    - name: alcoolino_walk_9
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1368
+        width: 128
+        height: 331
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 315}
+        - {x: 38, y: 331}
+        - {x: -48, y: 331}
+        - {x: -64, y: 315}
+        - {x: -64, y: 178}
+        - {x: -50, y: 15}
+        - {x: -36, y: 0}
+        - {x: 40, y: 0}
+        - {x: 39, y: 21}
+        - {x: 52, y: 93}
+        - {x: 64, y: 211}
+    - name: alcoolino_walk_10
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1369
+        width: 128
+        height: 330
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 330}
+        - {x: -47, y: 330}
+        - {x: -54, y: 329}
+        - {x: -64, y: 308}
+        - {x: -64, y: 251}
+        - {x: -60, y: 225}
+        - {x: -64, y: 105}
+        - {x: -64, y: 5}
+        - {x: -46, y: 0}
+        - {x: 56, y: 0}
+        - {x: 64, y: 118}
+        - {x: 64, y: 317}
+    - name: alcoolino_walk_11
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1369
+        width: 128
+        height: 330
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 313}
+        - {x: 39, y: 330}
+        - {x: -47, y: 330}
+        - {x: -64, y: 317}
+        - {x: -64, y: 68}
+        - {x: -60, y: 12}
+        - {x: -33, y: 0}
+        - {x: 37, y: 0}
+        - {x: 37, y: 30}
+        - {x: 47, y: 114}
+        - {x: 64, y: 226}
+    - name: alcoolino_walk_12
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1369
+        width: 127
+        height: 330
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63.5, y: 314}
+        - {x: 34.5, y: 330}
+        - {x: -44.5, y: 330}
+        - {x: -63.5, y: 325}
+        - {x: -63.5, y: 104}
+        - {x: -59.5, y: 13}
+        - {x: -33.5, y: 0}
+        - {x: 31.5, y: 0}
+        - {x: 35.5, y: 2}
+        - {x: 40.5, y: 30}
+        - {x: 63.5, y: 222}
+    - name: alcoolino_walk_13
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1369
+        width: 128
+        height: 330
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 330}
+        - {x: -52, y: 330}
+        - {x: -64, y: 324}
+        - {x: -64, y: 166}
+        - {x: -63, y: 150}
+        - {x: -59, y: 15}
+        - {x: -35, y: 0}
+        - {x: 43, y: 0}
+        - {x: 39, y: 160}
+        - {x: 64, y: 281}
+        - {x: 64, y: 310}
+    - name: alcoolino_walk_14
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 1370
+        width: 128
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 329}
+        - {x: -45, y: 329}
+        - {x: -64, y: 309}
+        - {x: -64, y: 248}
+        - {x: -60, y: 223}
+        - {x: -48, y: 15}
+        - {x: -38, y: 0}
+        - {x: 41, y: 0}
+        - {x: 46, y: 5}
+        - {x: 64, y: 240}
+        - {x: 64, y: 308}
+    - name: alcoolino_walk_15
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 1370
+        width: 128
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 309}
+        - {x: 35, y: 329}
+        - {x: -43, y: 329}
+        - {x: -64, y: 311}
+        - {x: -64, y: 235}
+        - {x: -62, y: 222}
+        - {x: -58, y: 12}
+        - {x: -35, y: 0}
+        - {x: 31, y: 0}
+        - {x: 36, y: 22}
+        - {x: 64, y: 257}
+    - name: alcoolino_walk_16
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 1371
+        width: 128
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 328}
+        - {x: -16, y: 328}
+        - {x: -35, y: 327}
+        - {x: -52, y: 323}
+        - {x: -64, y: 307}
+        - {x: -64, y: 252}
+        - {x: -60, y: 216}
+        - {x: -52, y: 0}
+        - {x: 44, y: 0}
+        - {x: 39, y: 101}
+        - {x: 64, y: 252}
+        - {x: 64, y: 308}
+    - name: alcoolino_walk_17
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 1371
+        width: 127
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63.5, y: 311}
+        - {x: 35.5, y: 328}
+        - {x: -44.5, y: 328}
+        - {x: -63.5, y: 319}
+        - {x: -63.5, y: 151}
+        - {x: -56.5, y: 5}
+        - {x: -26.5, y: 0}
+        - {x: 31.5, y: 0}
+        - {x: 31.5, y: 20}
+        - {x: 52.5, y: 204}
+        - {x: 63.5, y: 262}
+    - name: alcoolino_walk_18
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 1371
+        width: 128
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 328}
+        - {x: -35, y: 328}
+        - {x: -64, y: 322}
+        - {x: -64, y: 247}
+        - {x: -46, y: 201}
+        - {x: -59, y: 77}
+        - {x: -47, y: 3}
+        - {x: -31, y: 0}
+        - {x: 38, y: 0}
+        - {x: 42, y: 180}
+        - {x: 64, y: 263}
+        - {x: 64, y: 316}
+    - name: alcoolino_walk_19
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 1371
+        width: 128
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 307}
+        - {x: 45, y: 328}
+        - {x: -56, y: 328}
+        - {x: -64, y: 313}
+        - {x: -64, y: 232}
+        - {x: -57, y: 223}
+        - {x: -55, y: 0}
+        - {x: 33, y: 0}
+        - {x: 38, y: 180}
+        - {x: 55, y: 222}
+        - {x: 64, y: 253}
+    - name: alcoolino_walk_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1030
+        width: 128
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 240}
+        - {x: 64, y: 309}
+        - {x: 46, y: 328}
+        - {x: -47, y: 328}
+        - {x: -64, y: 314}
+        - {x: -64, y: 133}
+        - {x: -51, y: 0}
+        - {x: 29, y: 0}
+        - {x: 30, y: 11}
+        - {x: 18, y: 33}
+        - {x: 31, y: 119}
+    - name: alcoolino_walk_21
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1029
+        width: 128
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 329}
+        - {x: -58, y: 329}
+        - {x: -60, y: 327}
+        - {x: -64, y: 312}
+        - {x: -64, y: 217}
+        - {x: -53, y: 177}
+        - {x: -48, y: 11}
+        - {x: -24, y: 0}
+        - {x: 34, y: 0}
+        - {x: 50, y: 206}
+        - {x: 64, y: 243}
+        - {x: 64, y: 326}
+    - name: alcoolino_walk_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1029
+        width: 127
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: 329}
+        - {x: -58.5, y: 329}
+        - {x: -63.5, y: 313}
+        - {x: -63.5, y: 237}
+        - {x: -34.5, y: 195}
+        - {x: -54.5, y: 143}
+        - {x: -43.5, y: 5}
+        - {x: -22.5, y: 0}
+        - {x: 36.5, y: 0}
+        - {x: 47.5, y: 178}
+        - {x: 63.5, y: 253}
+        - {x: 63.5, y: 316}
+    - name: alcoolino_walk_23
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1029
+        width: 127
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -63.5, y: 313}
+        - {x: -63.5, y: 219}
+        - {x: -56.5, y: 206}
+        - {x: -48.5, y: 0}
+        - {x: 26.5, y: 0}
+        - {x: 27.5, y: 34}
+        - {x: 63.5, y: 221}
+        - {x: 63.5, y: 310}
+    - name: alcoolino_walk_24
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1029
+        width: 128
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: 233}
+        - {x: 64, y: 274}
+        - {x: 64, y: 319}
+        - {x: 59, y: 329}
+        - {x: -60, y: 329}
+        - {x: -64, y: 327}
+        - {x: -64, y: 88}
+        - {x: -49, y: 20}
+        - {x: -38, y: 6}
+        - {x: 1, y: 0}
+        - {x: 21, y: 0}
+        - {x: 24, y: 20}
+        - {x: 15, y: 29}
+        - {x: 26, y: 82}
+    - name: alcoolino_walk_25
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1029
+        width: 128
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 329}
+        - {x: -64, y: 329}
+        - {x: -64, y: 148}
+        - {x: -47, y: 41}
+        - {x: -40, y: 0}
+        - {x: 27, y: 0}
+        - {x: 28, y: 50}
+        - {x: 64, y: 264}
+        - {x: 64, y: 315}
+    - name: alcoolino_walk_26
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1030
+        width: 127
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63.5, y: 312}
+        - {x: 54.5, y: 328}
+        - {x: -39.5, y: 328}
+        - {x: -63.5, y: 320}
+        - {x: -63.5, y: 117}
+        - {x: -50.5, y: 13}
+        - {x: -29.5, y: 4}
+        - {x: -4.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 20.5, y: 8}
+        - {x: 18.5, y: 21}
+        - {x: 63.5, y: 240}
+    - name: alcoolino_walk_27
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1030
+        width: 128
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 328}
+        - {x: -64, y: 310}
+        - {x: -64, y: 256}
+        - {x: -57, y: 217}
+        - {x: -64, y: 141}
+        - {x: -64, y: 62}
+        - {x: -41, y: 0}
+        - {x: 23, y: 0}
+        - {x: 64, y: 250}
+        - {x: 64, y: 313}
+        - {x: 36, y: 328}
+    - name: alcoolino_walk_28
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1031
+        width: 128
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 327}
+        - {x: -41, y: 327}
+        - {x: -54, y: 326}
+        - {x: -64, y: 312}
+        - {x: -64, y: 153}
+        - {x: -59, y: 76}
+        - {x: -43, y: 0}
+        - {x: 17, y: 0}
+        - {x: 23, y: 6}
+        - {x: 64, y: 231}
+        - {x: 64, y: 315}
+    - name: alcoolino_walk_29
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1031
+        width: 127
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.5, y: 327}
+        - {x: -49.5, y: 327}
+        - {x: -63.5, y: 319}
+        - {x: -63.5, y: 118}
+        - {x: -50.5, y: 16}
+        - {x: -20.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 24.5, y: 22}
+        - {x: 63.5, y: 242}
+        - {x: 63.5, y: 305}
+    - name: alcoolino_walk_30
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1032
+        width: 128
+        height: 326
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 326}
+        - {x: -64, y: 326}
+        - {x: -64, y: 37}
+        - {x: -62, y: 10}
+        - {x: -34, y: 0}
+        - {x: 23, y: 0}
+        - {x: 31, y: 87}
+        - {x: 64, y: 244}
+        - {x: 64, y: 312}
+    - name: alcoolino_walk_31
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1033
+        width: 127
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.5, y: 325}
+        - {x: -54.5, y: 325}
+        - {x: -63.5, y: 315}
+        - {x: -63.5, y: 225}
+        - {x: -55.5, y: 181}
+        - {x: -55.5, y: 17}
+        - {x: -27.5, y: 0}
+        - {x: 23.5, y: 0}
+        - {x: 51.5, y: 184}
+        - {x: 63.5, y: 261}
+        - {x: 63.5, y: 308}
+    - name: alcoolino_walk_32
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1033
+        width: 128
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 325}
+        - {x: -54, y: 325}
+        - {x: -64, y: 309}
+        - {x: -64, y: 235}
+        - {x: -62, y: 219}
+        - {x: -60, y: 22}
+        - {x: -41, y: 0}
+        - {x: 16, y: 0}
+        - {x: 19, y: 2}
+        - {x: 64, y: 259}
+        - {x: 64, y: 308}
+    - name: alcoolino_walk_33
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1033
+        width: 128
+        height: 324
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: 324}
+        - {x: -64, y: 324}
+        - {x: -64, y: 231}
+        - {x: -62, y: 219}
+        - {x: -55, y: 19}
+        - {x: -35, y: 6}
+        - {x: -19, y: 0}
+        - {x: 22, y: 0}
+        - {x: 43, y: 176}
+        - {x: 64, y: 248}
+        - {x: 64, y: 317}
+    - name: alcoolino_walk_34
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 1033
+        width: 128
+        height: 324
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 324}
+        - {x: -48, y: 324}
+        - {x: -64, y: 304}
+        - {x: -64, y: 17}
+        - {x: -28, y: 0}
+        - {x: 14, y: 0}
+        - {x: 20, y: 22}
+        - {x: 64, y: 284}
+        - {x: 64, y: 300}
+    - name: alcoolino_walk_35
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 1033
+        width: 128
+        height: 324
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 324}
+        - {x: -44, y: 324}
+        - {x: -64, y: 315}
+        - {x: -64, y: 20}
+        - {x: -32, y: 0}
+        - {x: 19, y: 0}
+        - {x: 22, y: 2}
+        - {x: 64, y: 262}
+        - {x: 64, y: 304}
+    - name: alcoolino_walk_36
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 1033
+        width: 128
+        height: 324
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 324}
+        - {x: -46, y: 324}
+        - {x: -64, y: 308}
+        - {x: -64, y: 242}
+        - {x: -59, y: 215}
+        - {x: -60, y: 23}
+        - {x: -39, y: 0}
+        - {x: 24, y: 0}
+        - {x: 35, y: 74}
+        - {x: 64, y: 231}
+        - {x: 64, y: 300}
+    - name: alcoolino_walk_37
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 1033
+        width: 128
+        height: 324
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 324}
+        - {x: -64, y: 324}
+        - {x: -64, y: 192}
+        - {x: -52, y: 140}
+        - {x: -64, y: 44}
+        - {x: -64, y: 19}
+        - {x: -30, y: 0}
+        - {x: 18, y: 0}
+        - {x: 38, y: 175}
+        - {x: 64, y: 258}
+        - {x: 64, y: 310}
+    - name: alcoolino_walk_38
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1033
+        width: 128
+        height: 324
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 324}
+        - {x: -64, y: 306}
+        - {x: -64, y: 242}
+        - {x: -62, y: 221}
+        - {x: -60, y: 148}
+        - {x: -62, y: 24}
+        - {x: -41, y: 0}
+        - {x: 20, y: 0}
+        - {x: 64, y: 236}
+        - {x: 64, y: 309}
+        - {x: 40, y: 324}
+    - name: alcoolino_walk_39
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 1032
+        width: 129
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 325}
+        - {x: -47.5, y: 325}
+        - {x: -64.5, y: 308}
+        - {x: -64.5, y: 246}
+        - {x: -60.5, y: 218}
+        - {x: -64.5, y: 20}
+        - {x: -33.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 77}
+        - {x: 64.5, y: 274}
+        - {x: 64.5, y: 307}
+    - name: alcoolino_walk_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 690
+        width: 128
+        height: 326
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 326}
+        - {x: -47, y: 326}
+        - {x: -64, y: 308}
+        - {x: -64, y: 219}
+        - {x: -52, y: 80}
+        - {x: -59, y: 22}
+        - {x: -45, y: 0}
+        - {x: 22, y: 0}
+        - {x: 21, y: 79}
+        - {x: 64, y: 274}
+        - {x: 64, y: 305}
+    - name: alcoolino_walk_41
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 689
+        width: 129
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.5, y: 322}
+        - {x: 60.5, y: 327}
+        - {x: -59.5, y: 327}
+        - {x: -64.5, y: 326}
+        - {x: -64.5, y: 183}
+        - {x: -55.5, y: 153}
+        - {x: -63.5, y: 19}
+        - {x: -35.5, y: 0}
+        - {x: 15.5, y: 0}
+        - {x: 36.5, y: 77}
+        - {x: 41.5, y: 188}
+        - {x: 64.5, y: 260}
+    - name: alcoolino_walk_42
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 688
+        width: 129
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: 328}
+        - {x: -45.5, y: 328}
+        - {x: -64.5, y: 320}
+        - {x: -64.5, y: 183}
+        - {x: -54.5, y: 11}
+        - {x: -42.5, y: 5}
+        - {x: -31.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 38.5, y: 78}
+        - {x: 64.5, y: 260}
+        - {x: 64.5, y: 309}
+    - name: alcoolino_walk_43
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 688
+        width: 128
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 304}
+        - {x: 36, y: 327}
+        - {x: -52, y: 327}
+        - {x: -64, y: 315}
+        - {x: -64, y: 104}
+        - {x: -56, y: 5}
+        - {x: -45, y: 0}
+        - {x: 13, y: 0}
+        - {x: 39, y: 80}
+        - {x: 54, y: 219}
+        - {x: 64, y: 276}
+    - name: alcoolino_walk_44
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 687
+        width: 129
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.5, y: 312}
+        - {x: 37.5, y: 328}
+        - {x: -49.5, y: 328}
+        - {x: -64.5, y: 306}
+        - {x: -64.5, y: 0}
+        - {x: 1.5, y: 0}
+        - {x: 8.5, y: 4}
+        - {x: 16.5, y: 23}
+        - {x: 64.5, y: 245}
+    - name: alcoolino_walk_45
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 687
+        width: 129
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.5, y: 328}
+        - {x: -64.5, y: 327}
+        - {x: -64.5, y: 235}
+        - {x: -61.5, y: 222}
+        - {x: -60.5, y: 149}
+        - {x: -64.5, y: 83}
+        - {x: -64.5, y: 0}
+        - {x: 4.5, y: 0}
+        - {x: 22.5, y: 5}
+        - {x: 64.5, y: 194}
+        - {x: 64.5, y: 319}
+        - {x: 57.5, y: 328}
+    - name: alcoolino_walk_46
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 687
+        width: 129
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.5, y: 329}
+        - {x: -53.5, y: 329}
+        - {x: -64.5, y: 309}
+        - {x: -64.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 13.5, y: 25}
+        - {x: 64.5, y: 235}
+        - {x: 64.5, y: 311}
+    - name: alcoolino_walk_47
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 687
+        width: 129
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: 329}
+        - {x: -64.5, y: 309}
+        - {x: -64.5, y: 200}
+        - {x: -60.5, y: 66}
+        - {x: -64.5, y: 42}
+        - {x: -64.5, y: 1}
+        - {x: -59.5, y: 0}
+        - {x: 25.5, y: 0}
+        - {x: 64.5, y: 264}
+        - {x: 64.5, y: 306}
+        - {x: 40.5, y: 329}
+    - name: alcoolino_walk_48
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 686
+        width: 129
+        height: 330
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 330}
+        - {x: -54.5, y: 330}
+        - {x: -64.5, y: 325}
+        - {x: -64.5, y: 12}
+        - {x: -50.5, y: 0}
+        - {x: 21.5, y: 0}
+        - {x: 26.5, y: 102}
+        - {x: 64.5, y: 273}
+        - {x: 64.5, y: 307}
+    - name: alcoolino_walk_49
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 686
+        width: 132
+        height: 330
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 317}
+        - {x: 60, y: 330}
+        - {x: -66, y: 330}
+        - {x: -66, y: 10}
+        - {x: -51, y: 0}
+        - {x: 7, y: 0}
+        - {x: 24, y: 2}
+        - {x: 25, y: 179}
+        - {x: 51, y: 216}
+        - {x: 66, y: 275}
+    - name: alcoolino_walk_50
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 686
+        width: 135
+        height: 330
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 313}
+        - {x: 46.5, y: 330}
+        - {x: -54.5, y: 330}
+        - {x: -67.5, y: 312}
+        - {x: -67.5, y: 8}
+        - {x: -46.5, y: 0}
+        - {x: 25.5, y: 0}
+        - {x: 28.5, y: 1}
+        - {x: 35.5, y: 178}
+        - {x: 67.5, y: 265}
+    - name: alcoolino_walk_51
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 687
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 307}
+        - {x: 42.5, y: 329}
+        - {x: -43.5, y: 329}
+        - {x: -65.5, y: 307}
+        - {x: -63.5, y: 233}
+        - {x: -67.5, y: 181}
+        - {x: -67.5, y: 5}
+        - {x: -54.5, y: 0}
+        - {x: 29.5, y: 0}
+        - {x: 34.5, y: 155}
+        - {x: 67.5, y: 267}
+    - name: alcoolino_walk_52
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 687
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 315}
+        - {x: 53.5, y: 329}
+        - {x: -55.5, y: 329}
+        - {x: -67.5, y: 310}
+        - {x: -67.5, y: 4}
+        - {x: -50.5, y: 0}
+        - {x: 34.5, y: 0}
+        - {x: 32.5, y: 167}
+        - {x: 67.5, y: 239}
+    - name: alcoolino_walk_53
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 687
+        width: 135
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.5, y: 324}
+        - {x: 36.5, y: 329}
+        - {x: -54.5, y: 329}
+        - {x: -67.5, y: 319}
+        - {x: -67.5, y: 0}
+        - {x: 38.5, y: 0}
+        - {x: 41.5, y: 165}
+        - {x: 67.5, y: 251}
+        - {x: 67.5, y: 306}
+    - name: alcoolino_walk_54
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 687
+        width: 136
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 329}
+        - {x: -61, y: 329}
+        - {x: -68, y: 328}
+        - {x: -68, y: 229}
+        - {x: -59, y: 144}
+        - {x: -68, y: 87}
+        - {x: -68, y: 5}
+        - {x: -65, y: 0}
+        - {x: 37, y: 0}
+        - {x: 39, y: 163}
+        - {x: 68, y: 261}
+        - {x: 68, y: 310}
+    - name: alcoolino_walk_55
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 688
+        width: 136
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 310}
+        - {x: 60, y: 328}
+        - {x: -68, y: 328}
+        - {x: -68, y: 264}
+        - {x: -52, y: 212}
+        - {x: -68, y: 55}
+        - {x: -68, y: 9}
+        - {x: -56, y: 0}
+        - {x: 43, y: 0}
+        - {x: 44, y: 97}
+        - {x: 50, y: 199}
+        - {x: 68, y: 257}
+    - name: alcoolino_walk_56
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 688
+        width: 136
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 256}
+        - {x: 68, y: 304}
+        - {x: 47, y: 328}
+        - {x: -51, y: 328}
+        - {x: -68, y: 308}
+        - {x: -68, y: 253}
+        - {x: -60, y: 223}
+        - {x: -68, y: 136}
+        - {x: -68, y: 5}
+        - {x: -54, y: 0}
+        - {x: 30, y: 0}
+        - {x: 34, y: 1}
+        - {x: 35, y: 19}
+        - {x: 36, y: 173}
+    - name: alcoolino_walk_57
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 688
+        width: 135
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 253}
+        - {x: 67.5, y: 302}
+        - {x: 48.5, y: 328}
+        - {x: -52.5, y: 328}
+        - {x: -67.5, y: 302}
+        - {x: -67.5, y: 210}
+        - {x: -57.5, y: 156}
+        - {x: -67.5, y: 96}
+        - {x: -67.5, y: 3}
+        - {x: -57.5, y: 0}
+        - {x: 35.5, y: 0}
+        - {x: 42.5, y: 3}
+        - {x: 34.5, y: 103}
+        - {x: 51.5, y: 204}
+    - name: alcoolino_walk_58
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 688
+        width: 135
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.5, y: 328}
+        - {x: -39.5, y: 328}
+        - {x: -61.5, y: 313}
+        - {x: -67.5, y: 299}
+        - {x: -67.5, y: 198}
+        - {x: -63.5, y: 152}
+        - {x: -67.5, y: 124}
+        - {x: -67.5, y: 11}
+        - {x: -56.5, y: 0}
+        - {x: 50.5, y: 0}
+        - {x: 51.5, y: 235}
+        - {x: 67.5, y: 266}
+        - {x: 67.5, y: 302}
+    - name: alcoolino_walk_59
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 688
+        width: 136
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 263}
+        - {x: 68, y: 314}
+        - {x: 56, y: 328}
+        - {x: -56, y: 328}
+        - {x: -68, y: 326}
+        - {x: -68, y: 9}
+        - {x: -59, y: 0}
+        - {x: 46, y: 0}
+        - {x: 43, y: 21}
+        - {x: 39, y: 29}
+        - {x: 35, y: 155}
+    - name: alcoolino_walk_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 347
+        width: 136
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 300}
+        - {x: 47, y: 328}
+        - {x: -53, y: 328}
+        - {x: -68, y: 304}
+        - {x: -68, y: 241}
+        - {x: -60, y: 225}
+        - {x: -68, y: 76}
+        - {x: -68, y: 10}
+        - {x: -57, y: 0}
+        - {x: 48, y: 0}
+        - {x: 45, y: 31}
+        - {x: 34, y: 149}
+        - {x: 68, y: 261}
+    - name: alcoolino_walk_61
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 348
+        width: 136
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 5}
+        - {x: 14, y: 0}
+        - {x: 53, y: 0}
+        - {x: 68, y: 255}
+        - {x: 68, y: 299}
+        - {x: 44, y: 327}
+        - {x: -52, y: 327}
+        - {x: -67, y: 298}
+        - {x: -68, y: 250}
+        - {x: -68, y: 6}
+        - {x: -56, y: 0}
+        - {x: -13, y: 0}
+        - {x: -16, y: 8}
+        - {x: -16, y: 20}
+        - {x: -15, y: 11}
+    - name: alcoolino_walk_62
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 348
+        width: 136
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 6}
+        - {x: 46, y: 3}
+        - {x: 56, y: 4}
+        - {x: 68, y: 139}
+        - {x: 68, y: 305}
+        - {x: 47, y: 327}
+        - {x: -55, y: 327}
+        - {x: -68, y: 306}
+        - {x: -68, y: 10}
+        - {x: -47, y: 0}
+        - {x: -18, y: 0}
+        - {x: -17, y: 3}
+        - {x: -15, y: 19}
+        - {x: -13, y: 10}
+    - name: alcoolino_walk_63
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 348
+        width: 136
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 235}
+        - {x: 68, y: 312}
+        - {x: 51, y: 327}
+        - {x: -45, y: 327}
+        - {x: -68, y: 304}
+        - {x: -68, y: 303}
+        - {x: -55, y: 88}
+        - {x: -68, y: 47}
+        - {x: -68, y: 3}
+        - {x: -54, y: 0}
+        - {x: 48, y: 0}
+        - {x: 63, y: 2}
+        - {x: 38, y: 96}
+        - {x: 43, y: 180}
+    - name: alcoolino_walk_64
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 348
+        width: 136
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 310}
+        - {x: 42, y: 327}
+        - {x: -48, y: 327}
+        - {x: -68, y: 301}
+        - {x: -68, y: 214}
+        - {x: -57, y: 76}
+        - {x: -68, y: 41}
+        - {x: -68, y: 4}
+        - {x: -62, y: 0}
+        - {x: 54, y: 0}
+        - {x: 48, y: 70}
+        - {x: 36, y: 159}
+        - {x: 68, y: 262}
+    - name: alcoolino_walk_65
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 348
+        width: 134
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 0}
+        - {x: 21, y: 0}
+        - {x: 54, y: 6}
+        - {x: 52, y: 24}
+        - {x: 67, y: 178}
+        - {x: 67, y: 305}
+        - {x: 57, y: 323}
+        - {x: 53, y: 327}
+        - {x: -53, y: 327}
+        - {x: -67, y: 324}
+        - {x: -67, y: 7}
+        - {x: -60, y: 0}
+        - {x: -16, y: 0}
+        - {x: -13, y: 7}
+        - {x: -16, y: 24}
+        - {x: -12, y: 8}
+    - name: alcoolino_walk_66
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 348
+        width: 134
+        height: 326
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 26}
+        - {x: -14, y: 63}
+        - {x: -11, y: 9}
+        - {x: -1, y: 0}
+        - {x: 9, y: 0}
+        - {x: 57, y: 7}
+        - {x: 49, y: 29}
+        - {x: 41, y: 154}
+        - {x: 26, y: 182}
+        - {x: 40, y: 183}
+        - {x: 67, y: 234}
+        - {x: 67, y: 312}
+        - {x: 46, y: 326}
+        - {x: -53, y: 326}
+        - {x: -67, y: 320}
+        - {x: -67, y: 0}
+        - {x: -15, y: 0}
+        - {x: -14, y: 3}
+        - {x: -14, y: 18}
+    - name: alcoolino_walk_67
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 347
+        width: 133
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.5, y: 1}
+        - {x: 66.5, y: 21}
+        - {x: 66.5, y: 327}
+        - {x: -66.5, y: 327}
+        - {x: -66.5, y: 3}
+        - {x: -60.5, y: 0}
+        - {x: -10.5, y: 0}
+        - {x: -12.5, y: 22}
+        - {x: -10.5, y: 9}
+        - {x: -7.5, y: 4}
+    - name: alcoolino_walk_68
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 347
+        width: 132
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 271}
+        - {x: 66, y: 303}
+        - {x: 39, y: 327}
+        - {x: -52, y: 327}
+        - {x: -66, y: 318}
+        - {x: -66, y: 0}
+        - {x: 32, y: 0}
+        - {x: 56, y: 8}
+        - {x: 55, y: 25}
+        - {x: 42, y: 108}
+    - name: alcoolino_walk_69
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 347
+        width: 132
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 312}
+        - {x: 46, y: 327}
+        - {x: -64, y: 327}
+        - {x: -66, y: 316}
+        - {x: -66, y: 170}
+        - {x: -60, y: 154}
+        - {x: -66, y: 70}
+        - {x: -66, y: 4}
+        - {x: -51, y: 0}
+        - {x: 33, y: 0}
+        - {x: 59, y: 7}
+        - {x: 43, y: 179}
+        - {x: 66, y: 233}
+    - name: alcoolino_walk_70
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 347
+        width: 131
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.5, y: 7}
+        - {x: 50.5, y: 27}
+        - {x: 65.5, y: 166}
+        - {x: 65.5, y: 305}
+        - {x: 46.5, y: 327}
+        - {x: -64.5, y: 327}
+        - {x: -65.5, y: 326}
+        - {x: -65.5, y: 0}
+        - {x: -12.5, y: 0}
+        - {x: -13.5, y: 26}
+        - {x: -9.5, y: 0}
+        - {x: -6.5, y: 0}
+    - name: alcoolino_walk_71
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 347
+        width: 131
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0}
+        - {x: 51.5, y: 5}
+        - {x: 54.5, y: 29}
+        - {x: 65.5, y: 167}
+        - {x: 65.5, y: 301}
+        - {x: 42.5, y: 327}
+        - {x: -56.5, y: 327}
+        - {x: -65.5, y: 318}
+        - {x: -65.5, y: 9}
+        - {x: -47.5, y: 0}
+        - {x: -12.5, y: 0}
+        - {x: -11.5, y: 12}
+        - {x: -11.5, y: 18}
+        - {x: -10.5, y: 0}
+    - name: alcoolino_walk_72
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 347
+        width: 130
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 5}
+        - {x: 33, y: 0}
+        - {x: 59, y: 0}
+        - {x: 65, y: 43}
+        - {x: 65, y: 317}
+        - {x: 48, y: 327}
+        - {x: -65, y: 327}
+        - {x: -65, y: 0}
+        - {x: -11, y: 0}
+        - {x: -13, y: 26}
+        - {x: -10, y: 11}
+    - name: alcoolino_walk_73
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 347
+        width: 128
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 183}
+        - {x: 54, y: 219}
+        - {x: 64, y: 279}
+        - {x: 64, y: 306}
+        - {x: 49, y: 327}
+        - {x: -55, y: 327}
+        - {x: -64, y: 325}
+        - {x: -64, y: 175}
+        - {x: -62, y: 153}
+        - {x: -64, y: 130}
+        - {x: -64, y: 2}
+        - {x: -54, y: 0}
+        - {x: 52, y: 0}
+        - {x: 64, y: 3}
+        - {x: 64, y: 37}
+        - {x: 55, y: 111}
+    - name: alcoolino_walk_74
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 347
+        width: 128
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 6}
+        - {x: 64, y: 314}
+        - {x: 48, y: 327}
+        - {x: -50, y: 327}
+        - {x: -64, y: 315}
+        - {x: -64, y: 6}
+        - {x: -46, y: 0}
+        - {x: -11, y: 0}
+        - {x: -9, y: 15}
+        - {x: -10, y: 6}
+        - {x: 20, y: 0}
+    - name: alcoolino_walk_75
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 347
+        width: 128
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 5}
+        - {x: 64, y: 6}
+        - {x: 64, y: 328}
+        - {x: -56, y: 328}
+        - {x: -64, y: 314}
+        - {x: -64, y: 5}
+        - {x: -59, y: 0}
+        - {x: -9, y: 0}
+        - {x: -10, y: 18}
+        - {x: -7, y: 9}
+        - {x: -4, y: 5}
+    - name: alcoolino_walk_76
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 347
+        width: 129
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 33}
+        - {x: -6.5, y: 7}
+        - {x: -4.5, y: 4}
+        - {x: 29.5, y: 6}
+        - {x: 53.5, y: 9}
+        - {x: 64.5, y: 65}
+        - {x: 64.5, y: 324}
+        - {x: 52.5, y: 328}
+        - {x: -64.5, y: 328}
+        - {x: -64.5, y: 0}
+        - {x: -10.5, y: 0}
+        - {x: -8.5, y: 13}
+        - {x: -9.5, y: 21}
+        - {x: -12.5, y: 23}
+    - name: alcoolino_walk_77
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 347
+        width: 129
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 55}
+        - {x: -14.5, y: 61}
+        - {x: -11.5, y: 32}
+        - {x: -7.5, y: 9}
+        - {x: -5.5, y: 4}
+        - {x: 13.5, y: 0}
+        - {x: 64.5, y: 0}
+        - {x: 64.5, y: 328}
+        - {x: -57.5, y: 328}
+        - {x: -64.5, y: 318}
+        - {x: -64.5, y: 10}
+        - {x: -47.5, y: 0}
+        - {x: -7.5, y: 0}
+        - {x: -7.5, y: 6}
+        - {x: -10.5, y: 24}
+        - {x: -16.5, y: 37}
+    - name: alcoolino_walk_78
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 346
+        width: 129
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 24}
+        - {x: -9.5, y: 21}
+        - {x: -8.5, y: 20}
+        - {x: -8.5, y: 13}
+        - {x: -9.5, y: 0}
+        - {x: -2.5, y: 0}
+        - {x: 64.5, y: 8}
+        - {x: 64.5, y: 305}
+        - {x: 36.5, y: 329}
+        - {x: -52.5, y: 329}
+        - {x: -64.5, y: 323}
+        - {x: -64.5, y: 11}
+        - {x: -60.5, y: 7}
+        - {x: -39.5, y: 0}
+        - {x: -12.5, y: 0}
+        - {x: -9.5, y: 3}
+        - {x: -8.5, y: 19}
+        - {x: -11.5, y: 23}
+    - name: alcoolino_walk_79
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 346
+        width: 129
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.5, y: 257}
+        - {x: 64.5, y: 276}
+        - {x: 64.5, y: 310}
+        - {x: 52.5, y: 329}
+        - {x: -48.5, y: 329}
+        - {x: -64.5, y: 325}
+        - {x: -64.5, y: 189}
+        - {x: -62.5, y: 156}
+        - {x: -64.5, y: 74}
+        - {x: -64.5, y: 2}
+        - {x: -50.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 50.5, y: 10}
+        - {x: 55.5, y: 14}
+        - {x: 54.5, y: 103}
+    - name: alcoolino_walk_80
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5
+        width: 128
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 287}
+        - {x: 64, y: 311}
+        - {x: 52, y: 329}
+        - {x: -60, y: 329}
+        - {x: -64, y: 324}
+        - {x: -64, y: 0}
+        - {x: 15, y: 0}
+        - {x: 51, y: 8}
+        - {x: 56, y: 26}
+        - {x: 53, y: 257}
+    - name: alcoolino_walk_81
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 5
+        width: 128
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 40}
+        - {x: 50, y: 89}
+        - {x: 50, y: 108}
+        - {x: 64, y: 255}
+        - {x: 64, y: 311}
+        - {x: 53, y: 329}
+        - {x: -60, y: 329}
+        - {x: -64, y: 328}
+        - {x: -64, y: 9}
+        - {x: -54, y: 0}
+        - {x: 20, y: 0}
+        - {x: 55, y: 12}
+        - {x: 50, y: 29}
+        - {x: 42, y: 37}
+        - {x: 36, y: 39}
+    - name: alcoolino_walk_82
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 5
+        width: 128
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 252}
+        - {x: 64, y: 307}
+        - {x: 43, y: 329}
+        - {x: -58, y: 329}
+        - {x: -64, y: 317}
+        - {x: -64, y: 2}
+        - {x: -54, y: 0}
+        - {x: 43, y: 0}
+        - {x: 64, y: 26}
+        - {x: 64, y: 58}
+        - {x: 51, y: 111}
+    - name: alcoolino_walk_83
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 5
+        width: 128
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 113}
+        - {x: 64, y: 230}
+        - {x: 64, y: 304}
+        - {x: 36, y: 329}
+        - {x: -52, y: 329}
+        - {x: -64, y: 323}
+        - {x: -64, y: 0}
+        - {x: 20, y: 0}
+        - {x: 47, y: 10}
+        - {x: 52, y: 12}
+        - {x: 48, y: 31}
+    - name: alcoolino_walk_84
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 5
+        width: 128
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 86}
+        - {x: 18, y: 85}
+        - {x: 22, y: 81}
+        - {x: 40, y: 71}
+        - {x: 64, y: 85}
+        - {x: 64, y: 329}
+        - {x: -60, y: 329}
+        - {x: -64, y: 327}
+        - {x: -64, y: 0}
+        - {x: 51, y: 0}
+        - {x: 57, y: 28}
+        - {x: 20, y: 83}
+        - {x: 18, y: 83}
+    - name: alcoolino_walk_85
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 5
+        width: 128
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 316}
+        - {x: 58, y: 329}
+        - {x: -56, y: 329}
+        - {x: -64, y: 327}
+        - {x: -64, y: 9}
+        - {x: -46, y: 0}
+        - {x: 12, y: 0}
+        - {x: 56, y: 8}
+        - {x: 54, y: 109}
+        - {x: 50, y: 203}
+        - {x: 64, y: 252}
+    - name: alcoolino_walk_86
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 5
+        width: 129
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.5, y: 275}
+        - {x: 64.5, y: 311}
+        - {x: 37.5, y: 329}
+        - {x: -61.5, y: 329}
+        - {x: -64.5, y: 319}
+        - {x: -64.5, y: 0}
+        - {x: -1.5, y: 0}
+        - {x: 56.5, y: 9}
+        - {x: 63.5, y: 88}
+        - {x: 37.5, y: 185}
+    - name: alcoolino_walk_87
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 5
+        width: 129
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.5, y: 191}
+        - {x: 64.5, y: 255}
+        - {x: 64.5, y: 304}
+        - {x: 44.5, y: 329}
+        - {x: -58.5, y: 329}
+        - {x: -64.5, y: 322}
+        - {x: -64.5, y: 218}
+        - {x: -59.5, y: 181}
+        - {x: -64.5, y: 155}
+        - {x: -64.5, y: 38}
+        - {x: -58.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 51.5, y: 10}
+        - {x: 64.5, y: 20}
+        - {x: 64.5, y: 85}
+    - name: alcoolino_walk_88
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 5
+        width: 129
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: 329}
+        - {x: -64.5, y: 305}
+        - {x: -64.5, y: 88}
+        - {x: -51.5, y: 80}
+        - {x: -60.5, y: 38}
+        - {x: -55.5, y: 3}
+        - {x: -35.5, y: 0}
+        - {x: 64.5, y: 0}
+        - {x: 64.5, y: 323}
+        - {x: 56.5, y: 329}
+    - name: alcoolino_walk_89
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 5
+        width: 130
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65, y: 257}
+        - {x: 65, y: 312}
+        - {x: 39, y: 329}
+        - {x: -54, y: 329}
+        - {x: -65, y: 309}
+        - {x: -65, y: 235}
+        - {x: -50, y: 205}
+        - {x: -65, y: 136}
+        - {x: -65, y: 15}
+        - {x: -63, y: 0}
+        - {x: 65, y: 0}
+        - {x: 65, y: 34}
+        - {x: 53, y: 75}
+        - {x: 64, y: 118}
+        - {x: 52, y: 204}
+    - name: alcoolino_walk_90
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 5
+        width: 131
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.5, y: 124}
+        - {x: 46.5, y: 206}
+        - {x: 65.5, y: 283}
+        - {x: 65.5, y: 312}
+        - {x: 54.5, y: 329}
+        - {x: -56.5, y: 329}
+        - {x: -65.5, y: 327}
+        - {x: -65.5, y: 272}
+        - {x: -54.5, y: 182}
+        - {x: -65.5, y: 148}
+        - {x: -65.5, y: 28}
+        - {x: -61.5, y: 6}
+        - {x: -40.5, y: 0}
+        - {x: 36.5, y: 0}
+        - {x: 48.5, y: 4}
+        - {x: 58.5, y: 29}
+        - {x: 65.5, y: 56}
+    - name: alcoolino_walk_91
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 5
+        width: 133
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.5, y: 243}
+        - {x: 66.5, y: 316}
+        - {x: 37.5, y: 329}
+        - {x: -38.5, y: 329}
+        - {x: -46.5, y: 324}
+        - {x: -66.5, y: 322}
+        - {x: -66.5, y: 31}
+        - {x: -54.5, y: 11}
+        - {x: -35.5, y: 0}
+        - {x: 66.5, y: 0}
+        - {x: 66.5, y: 177}
+        - {x: 56.5, y: 206}
+    - name: alcoolino_walk_92
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 5
+        width: 134
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: 262}
+        - {x: 67, y: 316}
+        - {x: 41, y: 329}
+        - {x: -45, y: 329}
+        - {x: -67, y: 305}
+        - {x: -67, y: 293}
+        - {x: -57, y: 221}
+        - {x: -67, y: 170}
+        - {x: -67, y: 35}
+        - {x: -47, y: 0}
+        - {x: 67, y: 0}
+        - {x: 67, y: 141}
+        - {x: 46, y: 207}
     outline: []
   spritePackingTag: 
   userData: 

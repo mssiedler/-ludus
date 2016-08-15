@@ -1,9 +1,11 @@
+
 ﻿using UnityEngine;
 using System.Collections;
 
-public class abrirLoja : MonoBehaviour {
+public class abrirLoja : MonoBehaviour
+{
 
-    
+
     public GameObject botao;
     public bool teste;
     public int valor;
@@ -29,9 +31,6 @@ public class abrirLoja : MonoBehaviour {
         }
 
     }
-
-
-
 
 
 
