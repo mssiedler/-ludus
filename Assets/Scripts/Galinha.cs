@@ -10,6 +10,9 @@ using System.Collections.Generic;
 		private float posicaoInicial;
 		private float posicaoFinal;
 		private GameObject galinha;
+		public Animator galina;
+
+
 
 		private Transform t;
 		private float eixoX;
@@ -28,18 +31,24 @@ using System.Collections.Generic;
 
 		}
 
+	public void attribuirAnimation(Animator galina){
+		this.galina = galina;
+
+	
+	}
+
 	public void andarGalinha()
 	{
 		if (!parado) {
 			switch (movimento) {
 			case "I":
-				andarInicial();
+				andarInicial ();
 				break;
 			case "D":
-				andarDireita();
+				andarDireita ();
 				break;
 			case "E":
-				andarEsquerda();
+				andarEsquerda ();
 				break;
 			default:
 				break;
@@ -59,6 +68,9 @@ using System.Collections.Generic;
 		t.position = v3;
 		if (eixoX <= posicaoFinal) {
 			parado = true;
+			galina.SetBool("chegou", parado);
+		
+			//colocar animação idle aqui
 		}
 	}
 
@@ -76,12 +88,15 @@ using System.Collections.Generic;
 			v3 = new Vector3 (eixoX, t.position.y, t.position.z);
 			t.position = v3;
 			parado = true;
+			galina.SetBool("chegou", parado);
+
+
 		}
 	}
 
 	private void andarDireita()
 	{
-
+		
 		eixoX = t.position.x; //posico atual do objeto
 		eixoX += (Pergunta.velocidade*-1 + (Time.deltaTime));
 		Vector3 v3 = new Vector3 (eixoX, t.position.y, t.position.z);
@@ -93,6 +108,8 @@ using System.Collections.Generic;
 			v3 = new Vector3 (eixoX, t.position.y, t.position.z);
 			t.position = v3;
 			parado = true;
+			galina.SetBool("chegou", parado);
+
 		}
 	}
 
@@ -100,6 +117,8 @@ using System.Collections.Generic;
 	{
 		this.movimento = movimento;
 		parado = false;
+		galina.SetBool("chegou", parado);
+
 	}
 }
 

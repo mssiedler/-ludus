@@ -3,6 +3,9 @@ using UnityEngine.UI;
 using System.Collections.Generic;
 //GIT
 public class Pergunta : MonoBehaviour {
+	public Animator galina;
+	public Animator galina2;
+	public Animator galina3;
 	public Text pergunta;
 	public Text b1;
 	public Text b2;
@@ -132,8 +135,11 @@ public class Pergunta : MonoBehaviour {
 
 
 		galinha1 = new Galinha (g1, 200, 31 - 46.0f);
+		galinha1.attribuirAnimation (galina);
 		galinha2 = new Galinha (g2, 250, 31+16f);
+		galinha2.attribuirAnimation (galina2);
 		galinha3 = new Galinha (g3, 300, 31+73f);
+		galinha3.attribuirAnimation (galina3);
 		velocidade = -1.08f;
 		proxima = false;
 
@@ -238,12 +244,13 @@ public class Pergunta : MonoBehaviour {
 				galinha1.setMovimento ("E");
 				galinha2.setMovimento ("D");
 				galinha3.setMovimento ("D");
-				certa = true;
-
+				certa = true;//aquiiiiii
+				//aqui a animacao que deu certo
 
 			}
 			else
 			{
+				//aqui a animacao que deu errado
 				if(tenta != 1){
 					tenta = tenta - 1;
 				}
@@ -301,16 +308,24 @@ public class Pergunta : MonoBehaviour {
 		galinha2.andarGalinha ();
 		galinha3.andarGalinha ();
 
-		if (galinha1.parado && galinha2.parado && galinha3.parado && proxima) {
+		if (galinha1.parado && galinha2.parado && galinha3.parado) {
+			if (proxima) {
 
-			this.pergunta.text = perguntas[idPergunta].questoes;
-			this.b1.text = perguntas[idPergunta].respA + "";
-			this.b2.text = perguntas[idPergunta].respB + "";
-			this.b3.text = perguntas[idPergunta].respC + "";
-			proxima = false;
-			galinha1.setMovimento ("I");
-			galinha2.setMovimento ("I");
-			galinha3.setMovimento ("I");
+				this.pergunta.text = perguntas [idPergunta].questoes;
+				this.b1.text = perguntas [idPergunta].respA + "";
+				this.b2.text = perguntas [idPergunta].respB + "";
+				this.b3.text = perguntas [idPergunta].respC + "";
+				proxima = false;
+				//galina.SetBool("chegou", false);
+				//galina2.SetBool("chegou", false);
+				//galina3.SetBool("chegou", false);
+				galinha1.setMovimento ("I");
+				galinha2.setMovimento ("I");
+				galinha3.setMovimento ("I");
+			} else {
+				
+			}
+
 		}
 
 	}
